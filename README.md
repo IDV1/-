@@ -20,7 +20,7 @@ pip install -r requirements.txt
 python ID1_.py
 ```
 
-## ！注意 ！#
+## 注意
 
 目前问题多，最近通宵多逻辑乱了，改天有兴趣更新看看。
 
