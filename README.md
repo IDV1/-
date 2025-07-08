@@ -1,4 +1,4 @@
-# ID1 聊天機器人
+# ID1 Python后端聊天系统
 
 ## 功能
 
@@ -8,13 +8,13 @@
 - 显示本地 Ollama IP
 - 等等...
 
-## 安裝依賴
+## 安裝依赖
 
 ```bash
 pip install -r requirements.txt
 ```
 
-## 啟動方式
+## 启动方式
 
 ```bash
 python ID1_.py
